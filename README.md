@@ -1,4 +1,4 @@
 # MyMiniPortfolio
- portfolio website
+ Portfolio Website
 
-Criação de um Portfolio Website personalizado com HTML CSS e JS para estudo.
+Criação de um Portfolio Website personalizado com HTML CSS e JS.
